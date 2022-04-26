@@ -10,5 +10,6 @@ public class git1 {
         System.out.println("kol2");
         System.out.println("hjnj3");
         System.out.println("ghjjj4");
+        System.out.println("ijkj5");
     }
 }

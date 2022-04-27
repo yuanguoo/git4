@@ -13,6 +13,7 @@ public class git1 {
         System.out.println("ijkj5");
         System.out.println("ggghh5");
         System.out.println("jiuh");
+        southhjjjj
 
     }
 }
